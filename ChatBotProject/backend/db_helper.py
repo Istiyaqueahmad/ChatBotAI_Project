@@ -1,4 +1,4 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
+# Author: Isty.
 
 import mysql.connector
 global cnx
