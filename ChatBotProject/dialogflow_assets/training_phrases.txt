@@ -2,7 +2,7 @@
 
 Default Welcome Intent
 ======================
-Text response:  Hello, How can I help you? You can say "New Order" or "Track Order"
+Text response::  Hello, How can I help you? You can say "New Order" or "Track Order"
 				Good day! What can I do for you today? You can say "New Order" or "Track Order"
 				Greetings! How can I assist? You can say "New Order" or "Track Order"
 
