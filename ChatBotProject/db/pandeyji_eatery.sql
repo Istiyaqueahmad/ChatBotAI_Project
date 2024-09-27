@@ -2,8 +2,8 @@ CREATE DATABASE  IF NOT EXISTS `pandeyji_eatery` /*!40100 DEFAULT CHARACTER SET 
 USE `pandeyji_eatery`;
 -- MySQL dump 10.13  Distrib 8.0.31, for Win64 (x86_64)
 --
--- Host: localhost    Database: pandeyji_eatery
--- ------------------------------------------------------
+-- Host: localhost    Database: Istiyaque_Ahmad
+-- ---------------------------------------
 -- Server version	8.0.31
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
